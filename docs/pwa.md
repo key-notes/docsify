@@ -6,7 +6,7 @@ It is also very easy to use it.
 
 ## Create serviceWorker
 
-Create a `sw.js` file in your documents root directory and copy the following code:
+Create a `sw.js` file in your document's root directory and copy the following code:
 
 *sw.js*
 
